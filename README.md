@@ -1,5 +1,5 @@
 # Spring Capstone 2021 - Columbia DSI 
-## Off Policy Evaluation of Taxi Repostioning Problem 
+## Off-Policy Evaluation for Taxi Driver Repostioning Policies
 
 
 
