@@ -6,6 +6,7 @@
 ##### Team: Danyang Han, Anita Pinto, Elizabeth Yum
 ##### Mentors: Prof Vineet Goyal, Dr Zhiwei (Tony) Qin
 
+
 ### Abstract
 
 
@@ -15,8 +16,8 @@ We propose a novel method to tackle the problem of driver repositioning on ride-
 
 Final Report explaining the project can be read here 
 
-The main simulator to run a single iteration is here 
+The main simulator to run a single iteration is <a href="https://github.com/eyy4/Spr-2021-DiDi-RL/blob/master/notebooks/Simulation%20-%20V2.ipynb " > here </a>
 
-All files used for generating data, models, util functions are under tye directory notebooks
+All files used for generating data, models, util functions are under the directory <a href="https://github.com/eyy4/Spr-2021-DiDi-RL/tree/master/notebooks"> notebooks</a>
 
 For an overview of previous capstone project, visit <a href = "https://github.com/skyetim/didi-vehicle-repositioning-strategy"> here </a>
